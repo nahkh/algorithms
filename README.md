@@ -50,5 +50,7 @@ graph.py
 Computes the minimum spanning tree by iteratively finding the edge with the smallest weight that connects to disconnected components.
 
 ## Complexity Estimator
+
 classifier.py contains utilities for determining the big O class of an algorithm, based on experimental data
+
 benchmark.py contains a suite of benchmarking tools to test various sorting algorithms
