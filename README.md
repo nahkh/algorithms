@@ -44,7 +44,7 @@ Find the smallest item in the array, then add that to the new array.
 O(n^2)
 
 ## Graph Algorithms
-###Kruskal's minimum spanning tree algorithm
+### Kruskal's minimum spanning tree algorithm
 graph.py
 
 Computes the minimum spanning tree by iteratively finding the edge with the smallest weight that connects to disconnected components.
